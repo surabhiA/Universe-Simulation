@@ -1,5 +1,6 @@
 # Universe-Simulation
-This project simulates the solar system with 4 planets (This was a homework project in a data structure course)
+This project simulates the solar system using Newton's law of Universal Gravitation (This was a homework project in a data structure course)
+
 Compiling the Project
 > javac NBody.java
 
